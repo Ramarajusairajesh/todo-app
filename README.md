@@ -1,6 +1,6 @@
-# ToDo App with React+Django
+# ToDo App with React with Django
 
-Simple to do app with implementation of a backend and a frontend to make it more dynamic.
+A TODO app with Django as  backend and react as frontend.
 <br>
 
 # Usage & Implementation
